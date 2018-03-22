@@ -1,0 +1,29 @@
+{
+  "name": "cloverinstanbul",
+  "version": "1.0.0",
+  "description": "conver php to istanbul",
+  "main": "convertCloverIstanbul.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/computamike/CloverInstanbul.git"
+  },
+  "keywords": [
+    "code",
+    "coverage",
+    "php",
+    "istanbul",
+    "combined"
+  ],
+  "author": "Mike Hingley <mike.hingley@apc-overnight.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/computamike/CloverInstanbul/issues"
+  },
+  "homepage": "https://github.com/computamike/CloverInstanbul#readme",
+  "dependencies": {
+    "commander": "^2.15.1"
+  }
+}
